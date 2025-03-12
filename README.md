@@ -15,5 +15,5 @@ I'm a computer science student interested in building useful full stack applicat
 ---
 ### 🌱 I’m currently learning 
 - Programming Languages: Java, C, Javascript
-- Frameworks: React, Springboot
-- AI and ML Models
+- Frameworks: React, Springboot, PyTorch
+- Other: AWS
